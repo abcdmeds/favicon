@@ -1,0 +1,20 @@
+{
+  "name": "ABCD Medical",
+  "short_name": "Blog",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzbWmz2Y15aJtQBpPNl8Hj6yb2ck-fuZbVrIbkvf4D0xS91hysM7kJ9u0Qxg8ycEr_rJ30t4B5cdh06KKT3hR7vTqWtSJe6_0Wfmm_6_cHh-w0gMjvs6DIPFMelG-Du8TpQAWot-G9dEwcUChQz8oe3_0kLdmWh7GOf7W_JE6kMe8qTwHkN_UamapRiSlA/s192/ABCD%20Favicon%20192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaMOFtsmvlCRqL9b3T5sszd7vhhKJs8w4r3V6mEnnrCC9zGCSN5MC89_YdxMYm94Qp3-ikcYubK1KvV_foCjag8nW1h5IX6higtP137xDmihuu1pb1W-j_3MWVs8AgJTsykXRY2YZImr0u8ScNrKVtCd9vLZ0AAwExed9wWodRX02AV_s7bmO3wo26wB49/s512/ABCD%20Favicon%20512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/"
+}
